@@ -1,14 +1,14 @@
 # ecom
 
-Frontend: React(Vite) and TailwindCSS
+Frontend: React(Vite) and TailwindCSS \
 Backend: Node, Express and MongoDB
 
 # Steps:
 
--> Clone the repo
--> cd api -> npm install
--> cd frontend -> npm install
--> cd api -> nodemon index.js
+-> Clone the repo \
+-> cd api -> npm install \
+-> cd frontend -> npm install \
+-> cd api -> nodemon index.js \
 -> cd frontend -> npm run dev
 
 # Functionalities:
@@ -22,12 +22,12 @@ Backend: Node, Express and MongoDB
 
 # Postman endpoints:
 
-1) http://localhost:5000/users
-2) http://localhost:5000/products
-3) http://localhost:5000/cart
+1) http://localhost:5000/users 
+2) http://localhost:5000/products 
+3) http://localhost:5000/cart 
 
 # IMP:
 
-User data and Orders data is stored over MongoDB and MongoURL is there in .env
-JWT secret is also there on .env
+User data and Orders data is stored over MongoDB and MongoURL is there in .env \
+JWT secret is also there on .env \
 Make sure that the frontend url is http://localhost:5000/ so as to support CORS policy
